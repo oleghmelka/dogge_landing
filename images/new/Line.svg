@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" viewBox="0 0 1075.7 1231.5" style="enable-background:new 0 0 1075.7 1231.5;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{display:none;fill:url(#SVGID_3_);}
+</style>
+<radialGradient id="SVGID_1_" cx="628.3427" cy="4687.917" r="256.3397" gradientTransform="matrix(-3.5526 2.6168 0.3327 0.3443 1054.2947 -2438.7966)" gradientUnits="userSpaceOnUse">
+	<stop  offset="5.586592e-03" style="stop-color:#231F20"/>
+	<stop  offset="1" style="stop-color:#231F20;stop-opacity:0"/>
+</radialGradient>
+<path class="st0" d="M467,907.8c160.5-118.2,307.4-233.3,431.5-336.8v-83.4L0,1149.3v82.2C141.3,1140.3,301,1030,467,907.8z"/>
+<radialGradient id="SVGID_2_" cx="521.7387" cy="4082.2285" r="256.3397" gradientTransform="matrix(-3.5526 2.6168 0.3327 0.3443 1054.2947 -2438.7966)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#231F20"/>
+	<stop  offset="1" style="stop-color:#231F20;stop-opacity:0"/>
+</radialGradient>
+<path class="st1" d="M644.2,420.3C804.7,302,951.6,187,1075.7,83.4V0L177.2,661.8V744C318.5,652.8,478.2,542.5,644.2,420.3z"/>
+<radialGradient id="SVGID_3_" cx="567.4092" cy="4115.1724" r="157.976" gradientTransform="matrix(-3.5526 2.6168 0.3327 0.3443 1054.2947 -2438.7966)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#5C5C5C"/>
+	<stop  offset="0.1743" style="stop-color:#8B8B8B"/>
+	<stop  offset="0.3559" style="stop-color:#B4B4B4"/>
+	<stop  offset="0.5336" style="stop-color:#D5D5D5"/>
+	<stop  offset="0.7036" style="stop-color:#ECECEC"/>
+	<stop  offset="0.8627" style="stop-color:#FAFAFA"/>
+	<stop  offset="1" style="stop-color:#FFFFFF"/>
+</radialGradient>
+<path class="st2" d="M460.2,517.3c98.9-72.9,189.4-143.8,265.9-207.6v-51.4L172.4,666.1v50.6C259.5,660.6,357.9,592.6,460.2,517.3z"
+	/>
+</svg>
